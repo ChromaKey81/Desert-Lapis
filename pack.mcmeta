@@ -1,6 +1,6 @@
 {
     "pack": {
-        "pack_format": 10,
+        "pack_format": 13,
         "description": "Adds extra lapis lazuli ore to desert biomes"
     }
 }
